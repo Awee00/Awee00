@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Awee</h1>
+<h1 align="center">Hi 👋, I'm Wahyu Awee</h1>
 <h3 align="center">I'm Student from Indonesia</h3>
 
 - 📫 How to reach me **ardawardana70@gmail.com**
