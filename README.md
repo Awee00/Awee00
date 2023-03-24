@@ -4,7 +4,7 @@
 - 📫 How to reach me **ardawardana70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://instagram.com/wahyu.awe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wahyu.awe_" height="30" width="40" /></a>
 </p>
 
